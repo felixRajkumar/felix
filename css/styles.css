@@ -1,6 +1,6 @@
 body{
   margin: 0;
-  background-image:url(https://images.pexels.com/photos/1058417/pexels-photo-1058417.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500);
+  background-color:black;
 }
 .intro{
   margin-top: 0;
@@ -73,8 +73,7 @@ body{
   border-color: black;
   padding: 2px;
   border-spacing: 10px;
-  margin-left: 200px;
-  width:500px;
+
 }
 tr{
   border-color: black;
