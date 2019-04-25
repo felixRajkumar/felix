@@ -71,11 +71,7 @@ body{
   background-color: #00d1cd;
   border: solid;
   border-color: black;
-  padding: 2px;
-  border-spacing: 10px;
-
 }
 tr{
   border-color: black;
-  margin: 20px;
 }
